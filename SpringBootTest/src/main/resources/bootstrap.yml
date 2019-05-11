@@ -1,0 +1,7 @@
+---
+info:
+  component: SpringBootTest
+
+spring:
+  application:
+    name: SpringBootTest
