@@ -1,4 +1,4 @@
 ---
-buildpack: https://github.com/cloudfoundary/java-buildpack#v3.8
+buildpack: https://github.com/cloudfoundry/java-buildpack.git
 applications:
 - name: SpringBootTestByLoganmcasbr
